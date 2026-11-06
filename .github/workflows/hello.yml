@@ -10,5 +10,5 @@ jobs:
     steps:
 
       - name: Display Welcome Message
-        run: echo "Welcome to Unix Training Academy AWS Cloud & DevOps Bootcamp!"
+        run: echo "GitHub Actions Successfully Executed!"
 
